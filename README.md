@@ -75,8 +75,6 @@ Happy Coding!
 
 #### Unit 0 - The Node Environment
 
-[0A - Node Installation](https://github.com/glf30/0a-node-installation)
-
 [0B - Running Node](https://github.com/glf30/0b-running-node)
 
 ### Unit 1 - Introduction to Node
