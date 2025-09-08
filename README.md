@@ -75,11 +75,11 @@ Happy Coding!
 
 #### Unit 0 - The Node Environment
 
-[0B - Running Node](https://github.com/glf30/0b-running-node)
+[0B - Running Node](https://github.com/glf30/0b-running-node) | [Notes](https://gist.github.com/glf30/88c23610c8c67a30649aa3f0c8e0096e)
 
 ### Unit 1 - Introduction to Node
 
-[1A - Intro to Modules](https://github.com/glf30/1a-intro-to-modules) | [Notes](https://gist.github.com/glf30/88c23610c8c67a30649aa3f0c8e0096e)
+[1A - Intro to Modules](https://github.com/glf30/1a-intro-to-modules) 
 
 ### Unit 2 - Node, Express, & EJS
 
