@@ -83,6 +83,8 @@ Happy Coding!
 
 [1B - Built-in Modules](https://github.com/glf30/1b-built-in-modules) | [Notes](https://gist.github.com/glf30/8d8413144c353cf8181a6c1099e24558)
 
+[1C - HTTP](https://github.com/glf30/1c-http) | [Notes](https://gist.github.com/glf30/a763187d6706eac50f8f0e3e0f2cece4)
+
 ### Unit 2 - Node, Express, & EJS
 
 
