@@ -46,11 +46,6 @@ Welcome! This will be your main place for Fullstack-related materials!
 - Express
   - Routing
   - Axios (HTTP requests)
-- EJS
-  - Partials
-  - Data injection
-  - Conditional rendering
-  - Loops
 - Building a Basic API
 
 ### **03 - MongoDB**
@@ -85,7 +80,9 @@ Happy Coding!
 
 [1C - HTTP](https://github.com/glf30/1c-http) | [Notes](https://gist.github.com/glf30/a763187d6706eac50f8f0e3e0f2cece4)
 
-### Unit 2 - Node, Express, & EJS
+### Unit 2 - Express
+
+[2A - NPM](https://github.com/glf30/2a-npm) | [Notes](https://gist.github.com/glf30/33281a0084cb7bd6995df5e1c17d9ae8)
 
 
 ### Unit 3 - MongoDB
