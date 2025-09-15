@@ -84,6 +84,8 @@ Happy Coding!
 
 [2A - NPM](https://github.com/glf30/2a-npm) | [Notes](https://gist.github.com/glf30/33281a0084cb7bd6995df5e1c17d9ae8)
 
+[2B - Express](https://github.com/glf30/2b-express/) | [Notes](https://gist.github.com/glf30/45a563011744ac67b2b65c36f0486a93)
+
 [2C - Express CRUD](https://github.com/glf30/2c-express-crud) | [Notes](https://gist.github.com/glf30/9eb63093641df8fac9f44e7f0f3206ff)
 
 
