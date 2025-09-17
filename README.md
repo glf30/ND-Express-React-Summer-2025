@@ -88,6 +88,8 @@ Happy Coding!
 
 [2C - Express CRUD](https://github.com/glf30/2c-express-crud) | [Notes](https://gist.github.com/glf30/9eb63093641df8fac9f44e7f0f3206ff)
 
+[2D - Express Router](https://github.com/glf30/2d-express-router) | [Notes](https://gist.github.com/glf30/3b0a2fab492402577026f55b9557cefc)
+
 
 ### Unit 3 - MongoDB
 
