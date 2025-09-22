@@ -93,6 +93,10 @@ Happy Coding!
 
 ### Unit 3 - MongoDB
 
+[3A - Intro to MongoDB](https://github.com/glf30/3a-intro-to-mongodb) | [Notes](https://gist.github.com/glf30/f8668be821595dcf8e861b1636bd12f4)
+
+[3B - MongoDB CRUD](https://github.com/glf30/3b-mongodb-crud) | [Notes](https://gist.github.com/glf30/4389313cdc7b046a3f5c2f2080d3cc41)
+
 
 ### Unit 4 - Authentication
 
