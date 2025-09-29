@@ -97,6 +97,8 @@ Happy Coding!
 
 [3B - MongoDB CRUD](https://github.com/glf30/3b-mongodb-crud) | [Notes](https://gist.github.com/glf30/4389313cdc7b046a3f5c2f2080d3cc41)
 
+[3C - Relational Databases](https://github.com/glf30/3c-relational-databases) | [Notes](https://gist.github.com/glf30/8b1835f4b97e8ff881acf26f49d57e6c)
+
 
 ### Unit 4 - Authentication
 
