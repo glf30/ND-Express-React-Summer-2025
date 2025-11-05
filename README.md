@@ -123,19 +123,19 @@ Welcome! This will be your main place for React-related materials!
 
 [1a-jsx](https://github.com/glf30/1a-jsx) | [Notes](https://gist.github.com/glf30/0bb5310248f82e4672eb6640838c5bf6)
 
-[1b-components](https://github.com/glf30/1b-components) | [Notes]()
+[1b-components](https://github.com/glf30/1b-components) | [Notes](https://gist.github.com/glf30/ef6bbc8124eb042ce4fccaf897473913)
 
 [1d-conditional-rendering]() | [Notes](https://gist.github.com/glf30/fdc66ae6839edb49c96570db4ca21de5)
 
 #### Unit 2 - Props and State
 
-[2a-props](https://github.com/glf30/2a-props) | [Notes]()
+[2a-props](https://github.com/glf30/2a-props) | [Notes](https://gist.github.com/glf30/e41ba702988de5134249d46f562624f5)
 
 [2extra-destructuring](https://gist.github.com/glf30/1034121832a560c0a917c2474d7d724d)
 
-[2b-iterating-props](https://github.com/glf30/2b-iterating-props) | [Notes]()
+[2b-iterating-props](https://github.com/glf30/2b-iterating-props) | [Notes](https://gist.github.com/glf30/a95598ae0b80ab215908278d27c6c727)
 
-[2c-functions-as-props](https://github.com/glf30/2c-functions-as-props) | [Notes]()
+[2c-functions-as-props](https://github.com/glf30/2c-functions-as-props) | [Notes](https://gist.github.com/glf30/6b9c814c4b49221a87b5dd6ea3caa197)
 
 [2d-state](https://github.com/glf30/2d-state/tree/master/lesson) | [Notes](https://gist.github.com/glf30/244c0cba93352d2a8d9fb2aaab8a8183)
 
@@ -143,11 +143,11 @@ Welcome! This will be your main place for React-related materials!
 
 [3a-forms](https://github.com/glf30/3a-forms/tree/master) | [Notes]() [Assignment Answer](https://gist.github.com/glf30/76b4963885267f324e503f8bfc8614c2)
 
-[3b-use-effect](https://github.com/glf30/3b-use-effect/tree/master/lesson) | [Notes]()
+[3b-use-effect](https://github.com/glf30/3b-use-effect/tree/master/lesson) | [Notes](https://gist.github.com/glf30/8bdfa48be0f3f38929b346f360d4f567)
 
-[3c-child-components](https://github.com/glf30/3c-children) | [Notes]()
+[3c-child-components](https://github.com/glf30/3c-children) | [Notes](https://gist.github.com/glf30/3ce05d4a514ae50197dc58039b0c3d7e)
 
-[3d-routing]() | [Notes]()
+[3d-routing](https://github.com/glf30/3d-routing/tree/master/lesson) | [Notes](https://gist.github.com/glf30/297b194c9c753ca9ba4fd33e74af39c4)
 
 #### Unit 4 - Advanced React State Management
 
