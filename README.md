@@ -119,3 +119,38 @@ Happy Coding!
 
 Welcome! This will be your main place for React-related materials!
 
+#### Unit 1 - React Intro
+
+[1a-jsx](https://github.com/glf30/1a-jsx) | [Notes](https://gist.github.com/glf30/0bb5310248f82e4672eb6640838c5bf6)
+
+[1b-components](https://github.com/glf30/1b-components) | [Notes]()
+
+[1d-conditional-rendering]() | [Notes](https://gist.github.com/glf30/fdc66ae6839edb49c96570db4ca21de5)
+
+#### Unit 2 - Props and State
+
+[2a-props](https://github.com/glf30/2a-props) | [Notes]()
+
+[2extra-destructuring](https://gist.github.com/glf30/1034121832a560c0a917c2474d7d724d)
+
+[2b-iterating-props](https://github.com/glf30/2b-iterating-props) | [Notes]()
+
+[2c-functions-as-props](https://github.com/glf30/2c-functions-as-props) | [Notes]()
+
+[2d-state](https://github.com/glf30/2d-state/tree/master/lesson) | [Notes](https://gist.github.com/glf30/244c0cba93352d2a8d9fb2aaab8a8183)
+
+#### Unit 3 - Essential React Tools
+
+[3a-forms](https://github.com/glf30/3a-forms/tree/master) | [Notes]() [Assignment Answer](https://gist.github.com/glf30/76b4963885267f324e503f8bfc8614c2)
+
+[3b-use-effect](https://github.com/glf30/3b-use-effect/tree/master/lesson) | [Notes]()
+
+[3c-child-components](https://github.com/glf30/3c-children) | [Notes]()
+
+[3d-routing]() | [Notes]()
+
+#### Unit 4 - Advanced React State Management
+
+[4a-context](https://github.com/glf30/Context-Theme-Example)
+
+[4b-redux](https://github.com/glf30/fall-25-react-redux-demo)
