@@ -1,4 +1,4 @@
-# ND-Express-React-Summer-2025
+# ND-Express-React
 
 # ND Node/Express/Mongo Directory
 
